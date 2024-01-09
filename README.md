@@ -1,1 +1,1 @@
-# automatic-rolet
+Automaticke rolety
