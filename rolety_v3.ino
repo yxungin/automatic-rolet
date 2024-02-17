@@ -26,7 +26,7 @@ void setup() {
 
   digitalWrite(ENABLE_PIN, LOW);
 
-  WiFi.begin("Radim_5G", "SoNy6255");
+  WiFi.begin("jmn", "passwd");
   while (WiFi.status() != WL_CONNECTED) {
     delay(1000);
     Serial.println("Připojování k WiFi...");
